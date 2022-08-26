@@ -3,7 +3,6 @@
     "name": "index",
     "path": "/",
     "component": "/Users/de/git/davidebner-dot-de/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_54490c0d"
+    "chunkName": "pages/index"
   }
 ]

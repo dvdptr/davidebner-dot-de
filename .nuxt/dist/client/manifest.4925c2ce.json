@@ -1,0 +1,9 @@
+{
+  "name": "davidebner-de",
+  "short_name": "davidebner-de",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "de"
+}
