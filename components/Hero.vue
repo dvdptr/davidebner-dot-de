@@ -33,6 +33,8 @@
           Sound Collaboration: tong˛tong
           <a href="https://www.tongtong.de" target="_blank">(Link)</a>
         </p>
+        - <br />
+        <p>© 2022</p>
       </section>
     </div>
   </div>
