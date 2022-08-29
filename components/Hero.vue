@@ -14,9 +14,9 @@
 
         <div class="py-8">
           <img
-            src="https://live.staticflickr.com/4401/36256157272_eae13b285f_n.jpg"
-            alt="Wellenwald mit Bunker, David Ebner"
-            class="mx-auto"
+            src="~/assets/wellenwald-mit-bunker.png"
+            alt=""
+            class="mx-auto w-2/5"
           />
         </div>
       </section>
@@ -27,6 +27,7 @@
             >(Link)</a
           >
         </p>
+        - <br />
         <p>Upcoming Exhibition: Robert Schumann Preis 2023, Trier/ Germany</p>
         <p>
           - <br />
