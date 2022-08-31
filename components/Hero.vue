@@ -16,7 +16,7 @@
           <img
             src="~/assets/wellenwald-mit-bunker.png"
             alt=""
-            class="mx-auto w-2/5"
+            class="mx-auto w-full sm:w-2/5"
           />
         </div>
       </section>
