@@ -1,12 +1,10 @@
 <template>
-  <div class="bg-stone-100 text-sm md:h-screen">
+  <div class="text-sm">
     <Header />
-    <Hero />
+    <Works />
   </div>
 </template>
 
 <script>
-export default {
-  name: "IndexPage",
-};
+export default {};
 </script>

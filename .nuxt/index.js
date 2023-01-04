@@ -13,8 +13,6 @@ import { setContext, getLocation, getRouteData, normalizeError } from './utils'
 /* Plugins */
 
 import nuxt_plugin_plugin_c05db34a from 'nuxt_plugin_plugin_c05db34a' // Source: ./components/plugin.js (mode: 'all')
-import nuxt_plugin_workbox_6cf57ecd from 'nuxt_plugin_workbox_6cf57ecd' // Source: ./workbox.js (mode: 'client')
-import nuxt_plugin_metaplugin_5a84ae40 from 'nuxt_plugin_metaplugin_5a84ae40' // Source: ./pwa/meta.plugin.js (mode: 'all')
 
 // Component: <ClientOnly>
 Vue.component(ClientOnly.name, ClientOnly)
@@ -64,7 +62,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"title":"David Ebner","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":""},{"name":"format-detection","content":"telephone=no"},{"hid":"charset","charset":"utf-8"},{"hid":"mobile-web-app-capable","name":"mobile-web-app-capable","content":"yes"},{"hid":"apple-mobile-web-app-title","name":"apple-mobile-web-app-title","content":"davidebner-de"},{"hid":"og:type","name":"og:type","property":"og:type","content":"website"},{"hid":"og:title","name":"og:title","property":"og:title","content":"davidebner-de"},{"hid":"og:site_name","name":"og:site_name","property":"og:site_name","content":"davidebner-de"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"},{"hid":"shortcut-icon","rel":"shortcut icon","href":"\u002Ffavicon.ico"},{"rel":"manifest","href":"\u002F_nuxt\u002Fmanifest.4925c2ce.json","hid":"manifest"}],"style":[],"script":[],"htmlAttrs":{"lang":"de"}},
+    head: {"title":"David Ebner","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":""},{"name":"format-detection","content":"telephone=no"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"}],"style":[],"script":[]},
 
     router,
     nuxt: {
@@ -180,14 +178,6 @@ async function createApp(ssrContext, config = {}) {
 
   if (typeof nuxt_plugin_plugin_c05db34a === 'function') {
     await nuxt_plugin_plugin_c05db34a(app.context, inject)
-  }
-
-  if (process.client && typeof nuxt_plugin_workbox_6cf57ecd === 'function') {
-    await nuxt_plugin_workbox_6cf57ecd(app.context, inject)
-  }
-
-  if (typeof nuxt_plugin_metaplugin_5a84ae40 === 'function') {
-    await nuxt_plugin_metaplugin_5a84ae40(app.context, inject)
   }
 
   // Lock enablePreview in context

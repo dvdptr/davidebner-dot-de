@@ -1,6 +1,9 @@
 export { default as Cv } from '../../components/Cv.vue'
+export { default as Exhibitions } from '../../components/Exhibitions.vue'
 export { default as Header } from '../../components/Header.vue'
 export { default as Hero } from '../../components/Hero.vue'
+export { default as Works } from '../../components/Works.vue'
+export { default as WorksDetail } from '../../components/WorksDetail.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

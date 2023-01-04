@@ -1,5 +1,19 @@
 [
   {
+    "name": "belebteUnbeweglichkeit",
+    "path": "/belebteUnbeweglichkeit",
+    "component": "/Users/de/git/davidebner-dot-de/pages/belebteUnbeweglichkeit.vue",
+    "chunkName": "pages/belebteUnbeweglichkeit",
+    "_name": "_1b0255e2"
+  },
+  {
+    "name": "bruchstuecke",
+    "path": "/bruchstuecke",
+    "component": "/Users/de/git/davidebner-dot-de/pages/bruchstuecke.vue",
+    "chunkName": "pages/bruchstuecke",
+    "_name": "_1a820cb7"
+  },
+  {
     "name": "contact",
     "path": "/contact",
     "component": "/Users/de/git/davidebner-dot-de/pages/contact.vue",
@@ -19,6 +33,55 @@
     "component": "/Users/de/git/davidebner-dot-de/pages/exhibitions.vue",
     "chunkName": "pages/exhibitions",
     "_name": "_455d587f"
+  },
+  {
+    "name": "modelleOhneMaßstab",
+    "path": "/modelleOhneMa%C3%9Fstab",
+    "component": "/Users/de/git/davidebner-dot-de/pages/modelleOhneMaßstab.vue",
+    "chunkName": "pages/modelleOhneMaßstab",
+    "_name": "_af0888a0"
+  },
+  {
+    "name": "schwerschwarzschwebend",
+    "path": "/schwerschwarzschwebend",
+    "component": "/Users/de/git/davidebner-dot-de/pages/schwerschwarzschwebend.vue",
+    "chunkName": "pages/schwerschwarzschwebend",
+    "_name": "_2de28ed6"
+  },
+  {
+    "name": "schwerweicheluft",
+    "path": "/schwerweicheluft",
+    "component": "/Users/de/git/davidebner-dot-de/pages/schwerweicheluft.vue",
+    "chunkName": "pages/schwerweicheluft",
+    "_name": "_3f056f5d"
+  },
+  {
+    "name": "stammklang",
+    "path": "/stammklang",
+    "component": "/Users/de/git/davidebner-dot-de/pages/stammklang.vue",
+    "chunkName": "pages/stammklang",
+    "_name": "_34f61b6e"
+  },
+  {
+    "name": "tuchzeichnungen",
+    "path": "/tuchzeichnungen",
+    "component": "/Users/de/git/davidebner-dot-de/pages/tuchzeichnungen.vue",
+    "chunkName": "pages/tuchzeichnungen",
+    "_name": "_6c01827e"
+  },
+  {
+    "name": "wellenwaldmitbunker",
+    "path": "/wellenwaldmitbunker",
+    "component": "/Users/de/git/davidebner-dot-de/pages/wellenwaldmitbunker.vue",
+    "chunkName": "pages/wellenwaldmitbunker",
+    "_name": "_a00ed992"
+  },
+  {
+    "name": "wetware",
+    "path": "/wetware",
+    "component": "/Users/de/git/davidebner-dot-de/pages/wetware.vue",
+    "chunkName": "pages/wetware",
+    "_name": "_3889d0de"
   },
   {
     "name": "works",

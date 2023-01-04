@@ -2,7 +2,7 @@
   <div class="mx-auto w-4/5">
     <h2 class="py-6">CV</h2>
 
-    <p class="w-2/3">
+    <p class="sm:w-2/3">
       David Ebner, born 1988 in Trier, is a sound and installation artist based
       in Berlin. He studied Intermedia Design at Trier University of Applied
       Sciences under the supervision of Prof. Dr. Gunnar Schmidt. Ebner took
@@ -16,10 +16,10 @@
     <h2 class="py-6">EDUCATION</h2>
     <p>Intermedia Design, M.A. Hochschule Trier 2014–2018</p>
     <p>Intermedia Design, B.A. Hochschule Trier 2011–2014</p>
-    <p>Architecture, B.A. Hochschule Trier 2008–2009</p>
     <p>
       Sculpture, Jan Matejko Academy of Fine Arts, Krakow (Poland) 2015–2016
     </p>
+    <p>Architecture, B.A. Hochschule Trier 2008–2009</p>
     <p>Tutor: New Media & Projection, Hochschule Trier 2012–2013</p>
     <h2 class="py-6">EXHIBITIONS</h2>
     <ul class="list-none">
@@ -115,11 +115,5 @@
     </ul>
   </div>
 </template>
-
-<script>
-export default {
-  data() {},
-};
-</script>
 
 <style></style>

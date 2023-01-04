@@ -1,12 +1,10 @@
 <template>
   <div class="text-sm">
     <Header />
-    <Hero />
+    <Exhibitions />
   </div>
 </template>
 
 <script>
-export default {
-  name: "IndexPage",
-};
+export default {};
 </script>

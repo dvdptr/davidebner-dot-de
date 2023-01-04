@@ -6,7 +6,5 @@
 </template>
 
 <script>
-export default {
-  name: "IndexPage",
-};
+export default {};
 </script>

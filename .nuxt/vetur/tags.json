@@ -2,10 +2,19 @@
   "Cv": {
     "description": "Auto imported from components/Cv.vue"
   },
+  "Exhibitions": {
+    "description": "Auto imported from components/Exhibitions.vue"
+  },
   "Header": {
     "description": "Auto imported from components/Header.vue"
   },
   "Hero": {
     "description": "Auto imported from components/Hero.vue"
+  },
+  "Works": {
+    "description": "Auto imported from components/Works.vue"
+  },
+  "WorksDetail": {
+    "description": "Auto imported from components/WorksDetail.vue"
   }
 }

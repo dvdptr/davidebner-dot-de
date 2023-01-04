@@ -1,12 +1,12 @@
 <template>
   <div class="text-sm">
     <Header />
-    <Hero />
+    <div class="mx-auto w-4/5">
+      Please send inquiries to <br />info(at)davidebner.de
+    </div>
   </div>
 </template>
 
 <script>
-export default {
-  name: "IndexPage",
-};
+export default {};
 </script>
