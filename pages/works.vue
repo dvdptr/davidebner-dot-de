@@ -1,5 +1,5 @@
 <template>
-  <div class="text-sm">
+  <div class="bg-stone-100 text-sm md:h-screen">
     <Header />
     <Hero />
   </div>

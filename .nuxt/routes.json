@@ -1,5 +1,33 @@
 [
   {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/de/git/davidebner-dot-de/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_5786d39b"
+  },
+  {
+    "name": "cv",
+    "path": "/cv",
+    "component": "/Users/de/git/davidebner-dot-de/pages/cv.vue",
+    "chunkName": "pages/cv",
+    "_name": "_f0a90270"
+  },
+  {
+    "name": "exhibitions",
+    "path": "/exhibitions",
+    "component": "/Users/de/git/davidebner-dot-de/pages/exhibitions.vue",
+    "chunkName": "pages/exhibitions",
+    "_name": "_455d587f"
+  },
+  {
+    "name": "works",
+    "path": "/works",
+    "component": "/Users/de/git/davidebner-dot-de/pages/works.vue",
+    "chunkName": "pages/works",
+    "_name": "_7313b286"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "/Users/de/git/davidebner-dot-de/pages/index.vue",
