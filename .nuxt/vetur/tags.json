@@ -2,6 +2,9 @@
   "Cv": {
     "description": "Auto imported from components/Cv.vue"
   },
+  "ExhibitionOverview": {
+    "description": "Auto imported from components/ExhibitionOverview.vue"
+  },
   "Exhibitions": {
     "description": "Auto imported from components/Exhibitions.vue"
   },

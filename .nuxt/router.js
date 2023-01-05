@@ -4,19 +4,20 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _1b0255e2 = () => interopDefault(import('../pages/belebteUnbeweglichkeit.vue' /* webpackChunkName: "pages/belebteUnbeweglichkeit" */))
-const _1a820cb7 = () => interopDefault(import('../pages/bruchstuecke.vue' /* webpackChunkName: "pages/bruchstuecke" */))
 const _5786d39b = () => interopDefault(import('../pages/contact.vue' /* webpackChunkName: "pages/contact" */))
 const _f0a90270 = () => interopDefault(import('../pages/cv.vue' /* webpackChunkName: "pages/cv" */))
 const _455d587f = () => interopDefault(import('../pages/exhibitions.vue' /* webpackChunkName: "pages/exhibitions" */))
-const _af0888a0 = () => interopDefault(import('../pages/modelleOhneMaßstab.vue' /* webpackChunkName: "pages/modelleOhneMaßstab" */))
-const _2de28ed6 = () => interopDefault(import('../pages/schwerschwarzschwebend.vue' /* webpackChunkName: "pages/schwerschwarzschwebend" */))
-const _3f056f5d = () => interopDefault(import('../pages/schwerweicheluft.vue' /* webpackChunkName: "pages/schwerweicheluft" */))
-const _34f61b6e = () => interopDefault(import('../pages/stammklang.vue' /* webpackChunkName: "pages/stammklang" */))
-const _6c01827e = () => interopDefault(import('../pages/tuchzeichnungen.vue' /* webpackChunkName: "pages/tuchzeichnungen" */))
-const _a00ed992 = () => interopDefault(import('../pages/wellenwaldmitbunker.vue' /* webpackChunkName: "pages/wellenwaldmitbunker" */))
-const _3889d0de = () => interopDefault(import('../pages/wetware.vue' /* webpackChunkName: "pages/wetware" */))
 const _7313b286 = () => interopDefault(import('../pages/works.vue' /* webpackChunkName: "pages/works" */))
+const _3c797e18 = () => interopDefault(import('../pages/artworks/belebteUnbeweglichkeit.vue' /* webpackChunkName: "pages/artworks/belebteUnbeweglichkeit" */))
+const _67f2e9ff = () => interopDefault(import('../pages/artworks/beruehrungsstudien.vue' /* webpackChunkName: "pages/artworks/beruehrungsstudien" */))
+const _78643f26 = () => interopDefault(import('../pages/artworks/bruchstuecke.vue' /* webpackChunkName: "pages/artworks/bruchstuecke" */))
+const _4c0b6ee6 = () => interopDefault(import('../pages/artworks/modelleOhneMaßstab.vue' /* webpackChunkName: "pages/artworks/modelleOhneMaßstab" */))
+const _4f59b70c = () => interopDefault(import('../pages/artworks/schwerschwarzschwebend.vue' /* webpackChunkName: "pages/artworks/schwerschwarzschwebend" */))
+const _1b970fda = () => interopDefault(import('../pages/artworks/schwerweicheluft.vue' /* webpackChunkName: "pages/artworks/schwerweicheluft" */))
+const _d12136b8 = () => interopDefault(import('../pages/artworks/stammklang.vue' /* webpackChunkName: "pages/artworks/stammklang" */))
+const _0ddd716a = () => interopDefault(import('../pages/artworks/tuchzeichnungen.vue' /* webpackChunkName: "pages/artworks/tuchzeichnungen" */))
+const _7e5f46c1 = () => interopDefault(import('../pages/artworks/wellenwaldmitbunker.vue' /* webpackChunkName: "pages/artworks/wellenwaldmitbunker" */))
+const _c5ebf930 = () => interopDefault(import('../pages/artworks/wetware.vue' /* webpackChunkName: "pages/artworks/wetware" */))
 const _54490c0d = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
@@ -31,14 +32,6 @@ export const routerOptions = {
   scrollBehavior,
 
   routes: [{
-    path: "/belebteUnbeweglichkeit",
-    component: _1b0255e2,
-    name: "belebteUnbeweglichkeit"
-  }, {
-    path: "/bruchstuecke",
-    component: _1a820cb7,
-    name: "bruchstuecke"
-  }, {
     path: "/contact",
     component: _5786d39b,
     name: "contact"
@@ -51,37 +44,49 @@ export const routerOptions = {
     component: _455d587f,
     name: "exhibitions"
   }, {
-    path: "/modelleOhneMa%C3%9Fstab",
-    component: _af0888a0,
-    name: "modelleOhneMaßstab"
-  }, {
-    path: "/schwerschwarzschwebend",
-    component: _2de28ed6,
-    name: "schwerschwarzschwebend"
-  }, {
-    path: "/schwerweicheluft",
-    component: _3f056f5d,
-    name: "schwerweicheluft"
-  }, {
-    path: "/stammklang",
-    component: _34f61b6e,
-    name: "stammklang"
-  }, {
-    path: "/tuchzeichnungen",
-    component: _6c01827e,
-    name: "tuchzeichnungen"
-  }, {
-    path: "/wellenwaldmitbunker",
-    component: _a00ed992,
-    name: "wellenwaldmitbunker"
-  }, {
-    path: "/wetware",
-    component: _3889d0de,
-    name: "wetware"
-  }, {
     path: "/works",
     component: _7313b286,
     name: "works"
+  }, {
+    path: "/artworks/belebteUnbeweglichkeit",
+    component: _3c797e18,
+    name: "artworks-belebteUnbeweglichkeit"
+  }, {
+    path: "/artworks/beruehrungsstudien",
+    component: _67f2e9ff,
+    name: "artworks-beruehrungsstudien"
+  }, {
+    path: "/artworks/bruchstuecke",
+    component: _78643f26,
+    name: "artworks-bruchstuecke"
+  }, {
+    path: "/artworks/modelleOhneMa%C3%9Fstab",
+    component: _4c0b6ee6,
+    name: "artworks-modelleOhneMaßstab"
+  }, {
+    path: "/artworks/schwerschwarzschwebend",
+    component: _4f59b70c,
+    name: "artworks-schwerschwarzschwebend"
+  }, {
+    path: "/artworks/schwerweicheluft",
+    component: _1b970fda,
+    name: "artworks-schwerweicheluft"
+  }, {
+    path: "/artworks/stammklang",
+    component: _d12136b8,
+    name: "artworks-stammklang"
+  }, {
+    path: "/artworks/tuchzeichnungen",
+    component: _0ddd716a,
+    name: "artworks-tuchzeichnungen"
+  }, {
+    path: "/artworks/wellenwaldmitbunker",
+    component: _7e5f46c1,
+    name: "artworks-wellenwaldmitbunker"
+  }, {
+    path: "/artworks/wetware",
+    component: _c5ebf930,
+    name: "artworks-wetware"
   }, {
     path: "/",
     component: _54490c0d,

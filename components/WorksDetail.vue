@@ -1,6 +1,6 @@
 <template>
   <div class="mx-auto w-4/5 sm:flex">
-    <div class="block sm:mr-12 sm:w-1/3">
+    <div class="block pb-8 sm:mr-12 sm:w-1/3">
       <p class="text-xl">{{ title }}</p>
       <br />
       <p>{{ year }}</p>
