@@ -15,7 +15,7 @@ const _4c0b6ee6 = () => interopDefault(import('../pages/artworks/modelleOhneMaß
 const _4f59b70c = () => interopDefault(import('../pages/artworks/schwerschwarzschwebend.vue' /* webpackChunkName: "pages/artworks/schwerschwarzschwebend" */))
 const _1b970fda = () => interopDefault(import('../pages/artworks/schwerweicheluft.vue' /* webpackChunkName: "pages/artworks/schwerweicheluft" */))
 const _d12136b8 = () => interopDefault(import('../pages/artworks/stammklang.vue' /* webpackChunkName: "pages/artworks/stammklang" */))
-const _0ddd716a = () => interopDefault(import('../pages/artworks/tuchzeichnungen.vue' /* webpackChunkName: "pages/artworks/tuchzeichnungen" */))
+const _a04d3b60 = () => interopDefault(import('../pages/artworks/tuch-zeichnungen.vue' /* webpackChunkName: "pages/artworks/tuch-zeichnungen" */))
 const _7e5f46c1 = () => interopDefault(import('../pages/artworks/wellenwaldmitbunker.vue' /* webpackChunkName: "pages/artworks/wellenwaldmitbunker" */))
 const _c5ebf930 = () => interopDefault(import('../pages/artworks/wetware.vue' /* webpackChunkName: "pages/artworks/wetware" */))
 const _54490c0d = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
@@ -76,9 +76,9 @@ export const routerOptions = {
     component: _d12136b8,
     name: "artworks-stammklang"
   }, {
-    path: "/artworks/tuchzeichnungen",
-    component: _0ddd716a,
-    name: "artworks-tuchzeichnungen"
+    path: "/artworks/tuch-zeichnungen",
+    component: _a04d3b60,
+    name: "artworks-tuch-zeichnungen"
   }, {
     path: "/artworks/wellenwaldmitbunker",
     component: _7e5f46c1,

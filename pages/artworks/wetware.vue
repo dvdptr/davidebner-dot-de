@@ -15,7 +15,7 @@ Das organische Material der Gelatine einerseits und die technologische Erweiteru
 <script>
 import WorksDetail from "~/components/WorksDetail.vue";
 
-import MoMAnsicht from "../../assets/prints_davidebner_riso_edition.jpg";
+import MoMAnsicht from "../../assets/artworks/prints_davidebner_riso_edition.jpg";
 
 export default {
   components: {

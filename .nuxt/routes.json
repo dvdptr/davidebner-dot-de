@@ -77,11 +77,11 @@
     "_name": "_d12136b8"
   },
   {
-    "name": "artworks-tuchzeichnungen",
-    "path": "/artworks/tuchzeichnungen",
-    "component": "/Users/de/git/davidebner-dot-de/pages/artworks/tuchzeichnungen.vue",
-    "chunkName": "pages/artworks/tuchzeichnungen",
-    "_name": "_0ddd716a"
+    "name": "artworks-tuch-zeichnungen",
+    "path": "/artworks/tuch-zeichnungen",
+    "component": "/Users/de/git/davidebner-dot-de/pages/artworks/tuch-zeichnungen.vue",
+    "chunkName": "pages/artworks/tuch-zeichnungen",
+    "_name": "_a04d3b60"
   },
   {
     "name": "artworks-wellenwaldmitbunker",

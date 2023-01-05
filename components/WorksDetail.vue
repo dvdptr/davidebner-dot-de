@@ -16,8 +16,11 @@
         :key="image.src"
         v-bind:src="image.src"
         v-bind:alt="title"
-        class=""
+        class="pb-4 sm:pb-8"
       />
+      <div class="pb-12 hover:text-gray-400">
+        <nuxt-link to="../works">< back to menu</nuxt-link>
+      </div>
     </div>
   </div>
 </template>

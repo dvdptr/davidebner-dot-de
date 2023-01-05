@@ -7,7 +7,7 @@
       material="Holz, Graphit, Faden, Speaker, Data-Player, Licht / 800x100x400 cm"
       description="Die Materiallegung »Bruchstücke« besteht aus ortsspezifisch angeordneten Holzsplittern, deren Oberfläche mit Graphit überzogen ist. Jedes Bruchstück wurde von Hand mit Graphit behandelt, wodurch die zuvor zerbrochenen, beschädigten Stücke eine neue Oberfläche erhalten. Innerhalb der Splitter sind Lautsprecher platziert. Durch knackende, leise Klänge breitet sich die Installation akustisch im Raum aus.
 Die Installation »Bruchstücke« ist Formfindung und Formauflösung zugleich. Die gebrochenen Stücke ergeben nebeneinanderliegend eine geschlossene Form, die sich im Verlauf der Legung jedoch aufzulösen scheint und in einer chaotisch freien Anordnung endet."
-      :images="[{ src: MoMAnsicht }]"
+      :images="[{ src: bruchstueckeAnsicht }, { src: bruchstueckeDetail }]"
     />
   </div>
 </template>
@@ -15,7 +15,8 @@ Die Installation »Bruchstücke« ist Formfindung und Formauflösung zugleich. D
 <script>
 import WorksDetail from "~/components/WorksDetail.vue";
 
-import MoMAnsicht from "../../assets/prints_davidebner_riso_edition.jpg";
+import bruchstueckeAnsicht from "../../assets/artworks/bruchstuecke-ansicht.jpg";
+import bruchstueckeDetail from "../../assets/artworks/bruchstuecke-detail.jpg";
 
 export default {
   components: {
@@ -23,7 +24,8 @@ export default {
   },
   data() {
     return {
-      MoMAnsicht,
+      bruchstueckeAnsicht,
+      bruchstueckeDetail,
     };
   },
 };

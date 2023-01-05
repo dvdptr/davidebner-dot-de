@@ -7,7 +7,7 @@
         class="flex w-full flex-wrap items-center justify-between py-6"
       >
         <!-- NavBar Logo -->
-        <div>
+        <div class="hover:text-gray-400">
           <nuxt-link to="/"> David Ebner </nuxt-link>
         </div>
         <!-- Header Hamburger Icon -->
@@ -32,22 +32,22 @@
         >
           <div class="lg:flex-grow">
             <nuxt-link
-              class="mt-4 block border-b border-gray-300 px-2 py-2 pb-2 hover:text-gray-900 md:border-none md:pb-0 lg:mt-0 lg:inline-block"
+              class="mt-4 block border-b border-gray-300 px-2 py-2 pb-2 hover:text-gray-400 hover:text-gray-900 md:border-none md:pb-0 lg:mt-0 lg:inline-block"
               to="/exhibitions"
               >Exhibitions</nuxt-link
             >
             <nuxt-link
-              class="mt-4 block border-b border-gray-300 px-2 py-2 pb-2 hover:text-gray-900 md:border-none md:pb-0 lg:mt-0 lg:inline-block"
+              class="mt-4 block border-b border-gray-300 px-2 py-2 pb-2 hover:text-gray-400 hover:text-gray-900 md:border-none md:pb-0 lg:mt-0 lg:inline-block"
               to="/works"
               >Works</nuxt-link
             >
             <nuxt-link
-              class="mt-4 block border-b border-gray-300 px-2 py-2 pb-2 hover:text-gray-900 md:border-none md:pb-0 lg:mt-0 lg:inline-block"
+              class="mt-4 block border-b border-gray-300 px-2 py-2 pb-2 hover:text-gray-400 hover:text-gray-900 md:border-none md:pb-0 lg:mt-0 lg:inline-block"
               to="/cv"
               >CV</nuxt-link
             >
             <nuxt-link
-              class="mt-4 block border-b border-gray-300 px-2 py-2 pb-2 hover:text-gray-900 md:border-none md:pb-0 lg:mt-0 lg:inline-block"
+              class="mt-4 block border-b border-gray-300 px-2 py-2 pb-2 hover:text-gray-400 hover:text-gray-900 md:border-none md:pb-0 lg:mt-0 lg:inline-block"
               to="/contact"
               >Contact</nuxt-link
             >
