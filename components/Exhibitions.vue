@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-auto w-4/5">
+  <div class="mx-auto w-4/5 md:max-w-screen-xl">
     <ul class="list-none">
       <h2 class="py-6">Exhibitions</h2>
       <li>2019 »Ramboux-Preis«, Group-Show, Stadtmuseum Trier</li>

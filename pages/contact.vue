@@ -1,7 +1,7 @@
 <template>
   <div class="text-sm">
     <Header />
-    <div class="mx-auto w-4/5">
+    <div class="mx-auto w-4/5 md:max-w-screen-xl">
       Please send inquiries to <br />info(at)davidebner.de
     </div>
   </div>

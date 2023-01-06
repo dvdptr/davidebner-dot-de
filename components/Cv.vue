@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-auto w-4/5">
+  <div class="mx-auto w-4/5 md:max-w-screen-xl">
     <h2 class="py-6">CV</h2>
 
     <p class="sm:w-2/3">
@@ -15,17 +15,19 @@
     </p>
     <h2 class="py-6">EDUCATION</h2>
     <p>Intermedia Design, M.A. Hochschule Trier 2014–2018</p>
-    <p>Intermedia Design, B.A. Hochschule Trier 2011–2014</p>
     <p>
       Sculpture, Jan Matejko Academy of Fine Arts, Krakow (Poland) 2015–2016
     </p>
-    <p>Architecture, B.A. Hochschule Trier 2008–2009</p>
+    <p>Intermedia Design, B.A. Hochschule Trier 2011–2014</p>
     <p>Tutor: New Media & Projection, Hochschule Trier 2012–2013</p>
+    <p>Architecture, B.A. Hochschule Trier 2008–2009</p>
     <h2 class="py-6">EXHIBITIONS</h2>
     <ul class="list-none">
       <li>2019</li>
       <li>
         <span class="italic">Ramboux-Preis</span>, Group-Show, Stadtmuseum Trier
+        <br />
+        <span class="italic">Foreign Fields</span>, Group-Show, Milchhof Berlin
       </li>
       <br />
       <li>2018</li>

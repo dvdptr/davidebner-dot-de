@@ -70,6 +70,13 @@
     "_name": "_1b970fda"
   },
   {
+    "name": "artworks-spaltungen",
+    "path": "/artworks/spaltungen",
+    "component": "/Users/de/git/davidebner-dot-de/pages/artworks/spaltungen.vue",
+    "chunkName": "pages/artworks/spaltungen",
+    "_name": "_81486c14"
+  },
+  {
     "name": "artworks-stammklang",
     "path": "/artworks/stammklang",
     "component": "/Users/de/git/davidebner-dot-de/pages/artworks/stammklang.vue",

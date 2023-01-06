@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-auto w-4/5">
+  <div class="mx-auto w-4/5 md:max-w-screen-xl">
     <ul class="list-none">
       <h2 class="py-6">Works</h2>
       <nuxt-link class="hover:text-gray-400" to="artworks/modelleOhneMaßstab">
@@ -31,6 +31,9 @@
         to="artworks/SchwerSchwarzSchwebend"
       >
         <li>Schwer Schwarz Schwebend</li>
+      </nuxt-link>
+      <nuxt-link class="hover:text-gray-400" to="artworks/spaltungen">
+        <li>Spaltungen</li>
       </nuxt-link>
       <nuxt-link class="hover:text-gray-400" to="artworks/Bruchstuecke">
         <li>Bruchstücke</li>

@@ -7,7 +7,7 @@
       material="Gelatine, Speaker, Data-Player, Konstruktion / 40x40x150 cm"
       description="Die Sound-Installation »Wetware« besteht aus Gelatine, die durch Sound in Bewegung versetzt wird. Hierbei greift die Sound-Spur auf eine niedrige Bass-Frequenz zu, deren ständige Einflussnahme dazu führt dass die Gelatine leichte Risse bekommt ehe sie teilweise zerfällt. Das performative Moment der Installation äußern sich im Prozess der Zerstörung.
 Das organische Material der Gelatine einerseits und die technologische Erweiterung in Form des Lautsprechers andererseits verkörpern eine Auseinandersetzung, in der das weiche Material das Nachsehen hat."
-      :images="[{ src: MoMAnsicht }]"
+      :images="[{ src: ww2 }, { src: ww1 }]"
     />
   </div>
 </template>
@@ -15,7 +15,8 @@ Das organische Material der Gelatine einerseits und die technologische Erweiteru
 <script>
 import WorksDetail from "~/components/WorksDetail.vue";
 
-import MoMAnsicht from "../../assets/artworks/prints_davidebner_riso_edition.jpg";
+import ww1 from "../../assets/artworks/ww1.jpg";
+import ww2 from "../../assets/artworks/ww2.jpg";
 
 export default {
   components: {
@@ -23,7 +24,8 @@ export default {
   },
   data() {
     return {
-      MoMAnsicht,
+      ww1,
+      ww2,
     };
   },
 };

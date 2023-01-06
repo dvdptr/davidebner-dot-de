@@ -50,12 +50,12 @@ export default {
           description: "Krakau, 2016",
         },
         {
-          image: require("~/assets/exhibitions/trace-berlin.png"),
+          image: require("~/assets/exhibitions/dkt1.jpg"),
           title: "Bruchstücke",
           description: "Design- und Kulturtage, Trier, 2015",
         },
         {
-          image: require("~/assets/exhibitions/trace-berlin.png"),
+          image: require("~/assets/exhibitions/st1.jpg"),
           title: "Stücke",
           description: "Galerie Neues Bild, Trier, 2015",
         },
