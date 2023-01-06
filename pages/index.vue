@@ -1,7 +1,7 @@
 <template>
   <div class="text-sm">
     <Header />
-    <Hero />
+    <Works />
   </div>
 </template>
 
