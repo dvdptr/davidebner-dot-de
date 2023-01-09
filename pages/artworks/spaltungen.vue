@@ -4,7 +4,7 @@
     <WorksDetail
       title="Spaltungen"
       year="2015"
-      material="Risographie"
+      material="Risographie, 42x30cm, Auflage 50"
       description=""
       :images="[{ src: spaltungHolz }, { src: spaltungDigital }]"
     />

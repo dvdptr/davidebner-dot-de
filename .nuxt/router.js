@@ -11,6 +11,7 @@ const _7313b286 = () => interopDefault(import('../pages/works.vue' /* webpackChu
 const _3c797e18 = () => interopDefault(import('../pages/artworks/belebteUnbeweglichkeit.vue' /* webpackChunkName: "pages/artworks/belebteUnbeweglichkeit" */))
 const _67f2e9ff = () => interopDefault(import('../pages/artworks/beruehrungsstudien.vue' /* webpackChunkName: "pages/artworks/beruehrungsstudien" */))
 const _78643f26 = () => interopDefault(import('../pages/artworks/bruchstuecke.vue' /* webpackChunkName: "pages/artworks/bruchstuecke" */))
+const _3ea80d5c = () => interopDefault(import('../pages/artworks/leitformen.vue' /* webpackChunkName: "pages/artworks/leitformen" */))
 const _4c0b6ee6 = () => interopDefault(import('../pages/artworks/modelleOhneMaßstab.vue' /* webpackChunkName: "pages/artworks/modelleOhneMaßstab" */))
 const _4f59b70c = () => interopDefault(import('../pages/artworks/schwerschwarzschwebend.vue' /* webpackChunkName: "pages/artworks/schwerschwarzschwebend" */))
 const _1b970fda = () => interopDefault(import('../pages/artworks/schwerweicheluft.vue' /* webpackChunkName: "pages/artworks/schwerweicheluft" */))
@@ -60,6 +61,10 @@ export const routerOptions = {
     path: "/artworks/bruchstuecke",
     component: _78643f26,
     name: "artworks-bruchstuecke"
+  }, {
+    path: "/artworks/leitformen",
+    component: _3ea80d5c,
+    name: "artworks-leitformen"
   }, {
     path: "/artworks/modelleOhneMa%C3%9Fstab",
     component: _4c0b6ee6,

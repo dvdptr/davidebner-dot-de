@@ -42,6 +42,12 @@
     "chunkName": "pages/artworks/bruchstuecke"
   },
   {
+    "name": "artworks-leitformen",
+    "path": "/artworks/leitformen",
+    "component": "/Users/de/git/davidebner-dot-de/pages/artworks/leitformen.vue",
+    "chunkName": "pages/artworks/leitformen"
+  },
+  {
     "name": "artworks-modelleOhneMaßstab",
     "path": "/artworks/modelleOhneMa%C3%9Fstab",
     "component": "/Users/de/git/davidebner-dot-de/pages/artworks/modelleOhneMaßstab.vue",

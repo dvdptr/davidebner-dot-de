@@ -25,13 +25,13 @@
     <ul class="list-none">
       <li>2019</li>
       <li>
-        <span class="italic">Ramboux-Preis</span>, Group-Show, Stadtmuseum Trier
-        <br />
         <span class="italic">Foreign Fields</span>, Group-Show, Milchhof Berlin
       </li>
       <br />
       <li>2018</li>
       <li>
+        <span class="italic">Ramboux-Preis</span>, Group-Show, Stadtmuseum
+        Trier<br />
         <span class="italic">Unimagined Surroundings</span>, Solo-Show, TRACE
         Projects Berlin, Berlin
       </li>

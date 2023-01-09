@@ -4,6 +4,13 @@
     <div class="flex flex-wrap justify-items-stretch sm:pb-12">
       <!-- New Artwork -->
       <div class="gridLayout">
+        <nuxt-link class="hover:text-gray-400" to="artworks/leitformen">
+          <img src="~/assets/artworks/leitf2.jpg" alt="" />
+          <p>Leitformen</p>
+        </nuxt-link>
+      </div>
+      <!-- New Artwork -->
+      <div class="gridLayout">
         <nuxt-link class="hover:text-gray-400" to="artworks/modelleOhneMaßstab">
           <img src="~/assets/artworks/modelle_thumb.jpg" alt="" />
           <p>Modelle ohne Maßstab</p>

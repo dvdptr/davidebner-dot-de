@@ -29,19 +29,19 @@ export default {
     return {
       items: [
         {
-          image: require("~/assets/exhibitions/ramboux-kunstpreis.png"),
-          title: "Ramboux-Kunstpreis",
-          description: "Stadtmuseum Trier, 2018",
-        },
-        {
           image: require("~/assets/exhibitions/foreign-fields-ansicht.jpg"),
           title: "Foreign Fields",
           description: "Milchhof Berlin, 2019",
         },
         {
+          image: require("~/assets/exhibitions/ramboux-kunstpreis.png"),
+          title: "Ramboux-Kunstpreis",
+          description: "Stadtmuseum Trier, 2018",
+        },
+        {
           image: require("~/assets/exhibitions/trace-berlin.png"),
           title: "Unimagined Surroundings",
-          description: "Trace Projects, Berlin, 2019, Photo: V. Cafuli",
+          description: "Trace Projects, Berlin, 2018, Photo: V. Cafuli",
         },
         {
           image: require("~/assets/exhibitions/ars-electronica.png"),
