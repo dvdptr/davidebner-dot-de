@@ -30,7 +30,7 @@ export default {
           description: "Stadtmuseum Trier, 2018",
         },
         {
-          image: require("~/assets/exhibitions/foreign-fields.jpg"),
+          image: require("~/assets/exhibitions/foreign-fields-ansicht.jpg"),
           title: "Foreign Fields",
           description: "Milchhof Berlin, 2019",
         },

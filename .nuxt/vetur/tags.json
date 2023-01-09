@@ -1,12 +1,12 @@
 {
+  "ArtworksList": {
+    "description": "Auto imported from components/ArtworksList.vue"
+  },
   "Cv": {
     "description": "Auto imported from components/Cv.vue"
   },
   "ExhibitionOverview": {
     "description": "Auto imported from components/ExhibitionOverview.vue"
-  },
-  "Exhibitions": {
-    "description": "Auto imported from components/Exhibitions.vue"
   },
   "Header": {
     "description": "Auto imported from components/Header.vue"
@@ -19,5 +19,8 @@
   },
   "WorksDetail": {
     "description": "Auto imported from components/WorksDetail.vue"
+  },
+  "WorksList": {
+    "description": "Auto imported from components/WorksList.vue"
   }
 }

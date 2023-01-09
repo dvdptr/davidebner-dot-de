@@ -1,7 +1,7 @@
 <template>
   <div class="text-sm">
     <Header />
-    <Works />
+    <WorksList />
   </div>
 </template>
 
