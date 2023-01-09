@@ -19,10 +19,10 @@
 <script>
 import WorksDetail from "~/components/WorksDetail.vue";
 
-import leitf1 from "../../assets/artworks/leitf1.jpg";
-import leitf2 from "../../assets/artworks/leitf2.jpg";
-import leitf3 from "../../assets/artworks/leitf3.jpg";
-import leitf4 from "../../assets/artworks/leitf4.jpg";
+import leitf1 from "../../assets/artworks/leitf1.JPG";
+import leitf2 from "../../assets/artworks/leitf2.JPG";
+import leitf3 from "../../assets/artworks/leitf3.JPG";
+import leitf4 from "../../assets/artworks/leitf4.JPG";
 
 export default {
   components: {

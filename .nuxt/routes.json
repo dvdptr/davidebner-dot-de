@@ -3,102 +3,119 @@
     "name": "contact",
     "path": "/contact",
     "component": "/Users/de/git/davidebner-dot-de/pages/contact.vue",
-    "chunkName": "pages/contact"
+    "chunkName": "pages/contact",
+    "_name": "_5786d39b"
   },
   {
     "name": "cv",
     "path": "/cv",
     "component": "/Users/de/git/davidebner-dot-de/pages/cv.vue",
-    "chunkName": "pages/cv"
+    "chunkName": "pages/cv",
+    "_name": "_f0a90270"
   },
   {
     "name": "exhibitions",
     "path": "/exhibitions",
     "component": "/Users/de/git/davidebner-dot-de/pages/exhibitions.vue",
-    "chunkName": "pages/exhibitions"
+    "chunkName": "pages/exhibitions",
+    "_name": "_455d587f"
   },
   {
     "name": "works",
     "path": "/works",
     "component": "/Users/de/git/davidebner-dot-de/pages/works.vue",
-    "chunkName": "pages/works"
+    "chunkName": "pages/works",
+    "_name": "_7313b286"
   },
   {
     "name": "artworks-belebteUnbeweglichkeit",
     "path": "/artworks/belebteUnbeweglichkeit",
     "component": "/Users/de/git/davidebner-dot-de/pages/artworks/belebteUnbeweglichkeit.vue",
-    "chunkName": "pages/artworks/belebteUnbeweglichkeit"
+    "chunkName": "pages/artworks/belebteUnbeweglichkeit",
+    "_name": "_3c797e18"
   },
   {
     "name": "artworks-beruehrungsstudien",
     "path": "/artworks/beruehrungsstudien",
     "component": "/Users/de/git/davidebner-dot-de/pages/artworks/beruehrungsstudien.vue",
-    "chunkName": "pages/artworks/beruehrungsstudien"
+    "chunkName": "pages/artworks/beruehrungsstudien",
+    "_name": "_67f2e9ff"
   },
   {
     "name": "artworks-bruchstuecke",
     "path": "/artworks/bruchstuecke",
     "component": "/Users/de/git/davidebner-dot-de/pages/artworks/bruchstuecke.vue",
-    "chunkName": "pages/artworks/bruchstuecke"
+    "chunkName": "pages/artworks/bruchstuecke",
+    "_name": "_78643f26"
   },
   {
     "name": "artworks-leitformen",
     "path": "/artworks/leitformen",
     "component": "/Users/de/git/davidebner-dot-de/pages/artworks/leitformen.vue",
-    "chunkName": "pages/artworks/leitformen"
+    "chunkName": "pages/artworks/leitformen",
+    "_name": "_3ea80d5c"
   },
   {
     "name": "artworks-modelleOhneMaßstab",
     "path": "/artworks/modelleOhneMa%C3%9Fstab",
     "component": "/Users/de/git/davidebner-dot-de/pages/artworks/modelleOhneMaßstab.vue",
-    "chunkName": "pages/artworks/modelleOhneMaßstab"
+    "chunkName": "pages/artworks/modelleOhneMaßstab",
+    "_name": "_4c0b6ee6"
   },
   {
     "name": "artworks-schwerschwarzschwebend",
     "path": "/artworks/schwerschwarzschwebend",
     "component": "/Users/de/git/davidebner-dot-de/pages/artworks/schwerschwarzschwebend.vue",
-    "chunkName": "pages/artworks/schwerschwarzschwebend"
+    "chunkName": "pages/artworks/schwerschwarzschwebend",
+    "_name": "_4f59b70c"
   },
   {
     "name": "artworks-schwerweicheluft",
     "path": "/artworks/schwerweicheluft",
     "component": "/Users/de/git/davidebner-dot-de/pages/artworks/schwerweicheluft.vue",
-    "chunkName": "pages/artworks/schwerweicheluft"
+    "chunkName": "pages/artworks/schwerweicheluft",
+    "_name": "_1b970fda"
   },
   {
     "name": "artworks-spaltungen",
     "path": "/artworks/spaltungen",
     "component": "/Users/de/git/davidebner-dot-de/pages/artworks/spaltungen.vue",
-    "chunkName": "pages/artworks/spaltungen"
+    "chunkName": "pages/artworks/spaltungen",
+    "_name": "_81486c14"
   },
   {
     "name": "artworks-stammklang",
     "path": "/artworks/stammklang",
     "component": "/Users/de/git/davidebner-dot-de/pages/artworks/stammklang.vue",
-    "chunkName": "pages/artworks/stammklang"
+    "chunkName": "pages/artworks/stammklang",
+    "_name": "_d12136b8"
   },
   {
     "name": "artworks-tuch-zeichnungen",
     "path": "/artworks/tuch-zeichnungen",
     "component": "/Users/de/git/davidebner-dot-de/pages/artworks/tuch-zeichnungen.vue",
-    "chunkName": "pages/artworks/tuch-zeichnungen"
+    "chunkName": "pages/artworks/tuch-zeichnungen",
+    "_name": "_a04d3b60"
   },
   {
     "name": "artworks-wellenwaldmitbunker",
     "path": "/artworks/wellenwaldmitbunker",
     "component": "/Users/de/git/davidebner-dot-de/pages/artworks/wellenwaldmitbunker.vue",
-    "chunkName": "pages/artworks/wellenwaldmitbunker"
+    "chunkName": "pages/artworks/wellenwaldmitbunker",
+    "_name": "_7e5f46c1"
   },
   {
     "name": "artworks-wetware",
     "path": "/artworks/wetware",
     "component": "/Users/de/git/davidebner-dot-de/pages/artworks/wetware.vue",
-    "chunkName": "pages/artworks/wetware"
+    "chunkName": "pages/artworks/wetware",
+    "_name": "_c5ebf930"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/de/git/davidebner-dot-de/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_54490c0d"
   }
 ]
