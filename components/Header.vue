@@ -1,7 +1,7 @@
 <template>
   <div id="header" class="">
     <!-- Header NavBar total -->
-    <div class="mx-auto w-4/5 pt-2 sm:pb-10 md:max-w-screen-xl">
+    <div class="mx-auto w-11/12 pt-2 sm:w-4/5 sm:pb-10 md:max-w-screen-xl">
       <nav
         id="nav"
         class="flex w-full flex-wrap items-center justify-between py-6"

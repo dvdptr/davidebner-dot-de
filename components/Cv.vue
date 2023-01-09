@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-auto w-4/5 md:max-w-screen-xl">
+  <div class="mx-auto w-11/12 sm:w-4/5 md:max-w-screen-xl">
     <h2 class="py-6">CV</h2>
 
     <p class="sm:w-2/3">

@@ -1,5 +1,7 @@
 <template>
-  <div class="mx-auto w-4/5 justify-between sm:flex md:max-w-screen-xl">
+  <div
+    class="mx-auto w-11/12 justify-between pt-8 sm:flex sm:w-4/5 md:max-w-screen-xl"
+  >
     <div class="block pb-8 sm:mr-12 sm:w-1/3">
       <p class="text-xl">{{ title }}</p>
       <br />

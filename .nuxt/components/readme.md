@@ -11,6 +11,5 @@ You can directly use them in pages and other components without the need to impo
 - `<ExhibitionOverview>` | `<exhibition-overview>` (components/ExhibitionOverview.vue)
 - `<Header>` | `<header>` (components/Header.vue)
 - `<Hero>` | `<hero>` (components/Hero.vue)
-- `<Works>` | `<works>` (components/Works.vue)
 - `<WorksDetail>` | `<works-detail>` (components/WorksDetail.vue)
 - `<WorksList>` | `<works-list>` (components/WorksList.vue)

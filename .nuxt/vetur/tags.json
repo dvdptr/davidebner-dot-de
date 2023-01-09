@@ -14,9 +14,6 @@
   "Hero": {
     "description": "Auto imported from components/Hero.vue"
   },
-  "Works": {
-    "description": "Auto imported from components/Works.vue"
-  },
   "WorksDetail": {
     "description": "Auto imported from components/WorksDetail.vue"
   },
