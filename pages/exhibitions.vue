@@ -3,7 +3,7 @@
     <Header />
 
     <!-- <Exhibitions /> -->
-    <div class="mx-auto w-11/12 sm:w-4/5">
+    <div class="mx-auto w-11/12 sm:w-4/5 md:max-w-screen-xl">
       <div>
         <h2 class="py-6">Exhibitions</h2>
       </div>

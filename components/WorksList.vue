@@ -5,7 +5,7 @@
       <!-- New Artwork -->
       <div class="gridLayout">
         <nuxt-link class="hover:text-gray-400" to="artworks/leitformen">
-          <img src="~/assets/artworks/leitf2.JPG" alt="" />
+          <img src="~/assets/artworks/leitf-thumb.jpg" alt="" />
           <p>Leitformen</p>
         </nuxt-link>
       </div>
