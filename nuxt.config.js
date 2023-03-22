@@ -5,10 +5,24 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: "David Ebner",
+    htmlAttrs: {
+      lang: "de",
+    },
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { hid: "description", name: "description", content: "" },
+      {
+        hid: "description",
+        name: "description",
+        content:
+          "David Ebner ist ein Sound- und Installationskünstler mit Fokus auf Transformation als zentrale Kategorie. Dabei verwendet er sowohl Vorgefundenes als auch naturnahe Materialien wie Holz, Beton, Blei, Faden und Kupfer. David Ebner erweitert seine Werke mit Mitteln der Medienkunst indem er Klänge, Motoren und Bewegtbilder als Werkmaterial ergänzt.",
+      },
+      {
+        name: "keywords",
+        content:
+          "Soundkunst, , Sound, Kunst, Installationen, Transformation, Medienkunst, naturnahe Materialien, Klänge, Bewegtbilder, Skulptur, Art, Objects, Artwork, Artist, Berlin",
+      },
+
       { name: "format-detection", content: "telephone=no" },
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],

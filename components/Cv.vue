@@ -13,6 +13,19 @@
       augmentation to breathe life into the static objects and to add a wider
       spatial dimension.
     </p>
+    <br /><br />
+    <p class="italic sm:w-2/3">
+      David Ebner, geboren 1988 in Trier, ist ein Sound- und
+      Installationskünstler mit Sitz in Berlin. Er studierte Intermedia Design
+      an der Hochschule Trier unter der Leitung von Prof. Dr. Gunnar Schmidt.
+      Seine Werke umfassen Sound-Skulpturen und raumspezifische Installationen
+      mit Fokus auf Transformation als zentrale Kategorie. Dabei verwendet er
+      sowohl Vorgefundenes als auch naturnahe Materialien wie Holz, Beton, Blei,
+      Faden und Kupfer. David Ebner erweitert seine Werke mit Mitteln der
+      Medienkunst indem er Klänge, Motoren und Bewegtbilder als Werkmaterial
+      ergänzt, wodurch seine Arbeiten um eine nicht ausmessbare Raumdimension
+      erweitert werden und er den statischen Objekten somit Leben einhaucht.
+    </p>
     <h2 class="py-6">EDUCATION</h2>
     <p>Intermedia Design, M.A. Hochschule Trier 2014–2018</p>
     <p>

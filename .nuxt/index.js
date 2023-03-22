@@ -62,7 +62,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"title":"David Ebner","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":""},{"name":"format-detection","content":"telephone=no"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"}],"style":[],"script":[]},
+    head: {"title":"David Ebner","htmlAttrs":{"lang":"de"},"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"David Ebner ist ein Sound- und Installationskünstler mit Fokus auf Transformation als zentrale Kategorie. Dabei verwendet er sowohl Vorgefundenes als auch naturnahe Materialien wie Holz, Beton, Blei, Faden und Kupfer. David Ebner erweitert seine Werke mit Mitteln der Medienkunst indem er Klänge, Motoren und Bewegtbilder als Werkmaterial ergänzt."},{"name":"keywords","content":"Soundkunst, , Sound, Kunst, Installationen, Transformation, Medienkunst, naturnahe Materialien, Klänge, Bewegtbilder, Skulptur, Art, Objects, Artwork, Artist, Berlin"},{"name":"format-detection","content":"telephone=no"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"}],"style":[],"script":[]},
 
     router,
     nuxt: {
