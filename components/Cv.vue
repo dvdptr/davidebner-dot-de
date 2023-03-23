@@ -1,6 +1,6 @@
 <template>
   <div class="mx-auto w-11/12 sm:w-4/5 md:max-w-screen-xl">
-    <h2 class="py-6">CV</h2>
+    <h2 class="py-6 font-bold">CV</h2>
 
     <p class="sm:w-2/3">
       David Ebner, born 1988 in Trier, is a sound and installation artist based
@@ -26,7 +26,7 @@
       ergänzt, wodurch seine Arbeiten um eine nicht ausmessbare Raumdimension
       erweitert werden und er den statischen Objekten somit Leben einhaucht.
     </p>
-    <h2 class="py-6">EDUCATION</h2>
+    <h2 class="py-6 font-bold">EDUCATION</h2>
     <p>Intermedia Design, M.A. Hochschule Trier 2014–2018</p>
     <p>
       Sculpture, Jan Matejko Academy of Fine Arts, Krakow (Poland) 2015–2016
@@ -34,8 +34,14 @@
     <p>Intermedia Design, B.A. Hochschule Trier 2011–2014</p>
     <p>Tutor: New Media & Projection, Hochschule Trier 2012–2013</p>
     <p>Architecture, B.A. Hochschule Trier 2008–2009</p>
-    <h2 class="py-6">EXHIBITIONS</h2>
+    <h2 class="py-6 font-bold">EXHIBITIONS</h2>
     <ul class="list-none">
+      <li>2023</li>
+      <li>
+        Upcoming: <span class="italic">Robert-Schumann-Preis</span>, Group-Show,
+        Stadtmuseum Trier
+      </li>
+      <br />
       <li>2019</li>
       <li>
         <span class="italic">Foreign Fields</span>, Group-Show, Milchhof Berlin
@@ -105,7 +111,7 @@
         <span class="italic">Dunkel war ́s</span>, Group-Show, Hochschule Trier
       </li>
     </ul>
-    <h2 class="py-6">PERFORMANCE</h2>
+    <h2 class="py-6 font-bold">PERFORMANCE</h2>
     <ul class="list-none">
       <li>2015</li>
       <li>
@@ -113,7 +119,7 @@
         & Kulturtage Trier
       </li>
     </ul>
-    <h2 class="py-6">MEDIA GRANTS</h2>
+    <h2 class="py-6 font-bold">MEDIA GRANTS</h2>
     <ul class="list-none">
       <li>
         2018 Media Grant of Rhineland Palatinate for Project Belebte
@@ -128,6 +134,7 @@
       <li>2015 Scholarschip for exceptional results, Rhineland Palatinate</li>
       <li>2014 Media Grant of Rhineland Palatinate for Project Datenbank</li>
     </ul>
+    <br /><br />
   </div>
 </template>
 
